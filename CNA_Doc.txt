@@ -1,0 +1,47 @@
+Access Level Entitlement -
+
+Super Admin - 
+System Admin 
+Peogram Admin
+User 
+
+Prod - Super Admins (Susan and Jodi will get the mail) app owner
+Non-Prod - Arjun and Bhanwan will get the mail of Interest form
+
+Create System Type - Super admin will get the mail
+Create Program Type - Super admin will get the mail
+
+Super Admin - Alishiya, Susan and Jodi (Prod)
+
+Super Admin - iccreprt@us.ibm.com(Non-Prod)
+
+Sy - Create System Type and manage Agreement (No access)
+Py - Create System Type and manage Agreement Create Program Manage Customer Manage System type(No access)
+
+5 Mail coming scenarios
+
+Create System Type - Name - 30 char
+		   - Description - 
+
+Manage system type - Manage Admins (Add Admin)
+
+Manage Program - Choose System first after create program - Name - 100 char
+							  - Prog Details - 
+
+Manage Agreement - Name - No limit
+		 - PDF - 30 Char
+
+Cannot delete an agreement if attached to some program
+
+Manage links - 
+
+Manage Customers - IBMUSER will be there by default, it will only add the customers
+		 - Customer's name == 7
+		 - 
+
+Manage Program Participants - Linking company to Program
+			    
+Add users to participate program - Add customer to Program - Only Onboarded users to ICC
+
+Manage Program Archive - 
+
